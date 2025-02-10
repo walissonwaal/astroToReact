@@ -1,0 +1,24 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="32" height="32" fill="#1E1E1E"/>
+<g id="Home" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="7459" transform="translate(-997 -2440)" fill="#323232"/>
+<g id="Intro">
+<g id="Text + CTA">
+<g id="CTA">
+<g id="CTA Variant">
+<rect x="-16" y="-16" width="64" height="64" rx="32" fill="#EFEFEF"/>
+<g id="Arrow">
+<path id="Vector" d="M17.3333 6.66666H25.3333V14.6667" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M25.3334 6.66666L6.66675 25.3333" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="7459" fill="white" transform="translate(-997 -2440)"/>
+</clipPath>
+</defs>
+</svg>
